@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nokeep_ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/nokeep_ahmed?logo=twitter&style=for-the-badge" alt="nokeep_ahmed" /></a> </p>
 
-- 🔭 I’m currently working on **Text Summerizer**
+- 🔭 I’m currently working on **Big Data and MLOps**
 
 - 🌱 I’m currently learning **NLP, LLM**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajnakib2003@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
