@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nokeep_ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/nokeep_ahmed?logo=twitter&style=for-the-badge" alt="nokeep_ahmed" /></a> </p>
 
-- 🔭 I’m currently working on **Big Data and MLOps**
+- 🔭 I’m currently working on **Data Engineering and MLOps**
 
 - 🌱 I’m currently learning **NLP, LLM**
 
