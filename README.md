@@ -6,17 +6,13 @@ AI/ML Engineer • Machine Learning Systems • Data Engineering • MLOps
 
 <p align="center">
   <a href="https://linkedin.com/in/nakibahmedraj">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/nokeepahmed">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://kaggle.com/nakibahmed">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
-  </a>
-  <a href="https://x.com/nokeepahmed" target="_blank">
-  <img align="center"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
-       alt="X"
-       height="30"
-       width="30" />
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
 
@@ -118,8 +114,6 @@ Cloud/distributed system focused on **[engineering problem]**.
 
 ### Generative AI & LLMs
 
-### Generative AI & LLMs
-
 <p align="left">
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/>
 </p>
@@ -146,16 +140,16 @@ Cloud/distributed system focused on **[engineering problem]**.
 ### MLOps, Observability & Infrastructure
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow"/>
-<img src="https://cdn.simpleicons.org/evidently/FF5A5F" width="40" height="40" alt="Evidently AI"/>
-<img src="https://cdn.simpleicons.org/langfuse/000000" width="40" height="40" alt="Langfuse"/>
-<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="40" height="40" alt="Prometheus"/>
-<img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana"/>
-<img src="https://cdn.simpleicons.org/grafana/loki/F46800" width="40" height="40" alt="Loki"/>
-<img src="https://cdn.simpleicons.org/tempo/F46800" width="40" height="40" alt="Tempo"/>
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Evidently_AI-6C63FF?style=flat-square&logoColor=white" height="40" alt="Evidently AI"/>
+  <img src="https://img.shields.io/badge/Langfuse-111111?style=flat-square&logoColor=white" height="40" alt="Langfuse"/>
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="40" height="40" alt="Prometheus"/>
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logoColor=white" height="40" alt="Loki"/>
+  <img src="https://img.shields.io/badge/Tempo-F46800?style=flat-square&logoColor=white" height="40" alt="Tempo"/>
 </p>
 
-`Pulumi` · `MLflow` · `CI/CD` · `Model Serving` · `Monitoring`
+`Pulumi` · `MLflow` · `Evidently AI` · `Langfuse` · `CI/CD` · `Model Serving` · `Prometheus` · `Grafana` · `Loki` · `Tempo`
 
 > Technologies reflect tools I actively use or work with across machine learning, data engineering, MLOps, cloud infrastructure, and AI systems. Individual repositories provide implementation details and project-specific context.
 
