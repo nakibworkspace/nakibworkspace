@@ -118,43 +118,44 @@ Cloud/distributed system focused on **[engineering problem]**.
 
 ### Generative AI & LLMs
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.png" width="40" height="40" alt="LangChain"/>
-</p>
+### Generative AI & LLMs
 
-`LLMs` · `RAG` · `Embeddings` · `AI Agents` · `Prompt Engineering` · `NLP`
+<p align="left">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/>
+</p>
 
 ### Data Engineering & Big Data
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_64.png" width="40" height="40" alt="Apache Airflow"/>
-<img src="https://raw.githubusercontent.com/apache/spark/master/docs/img/spark-logo-hd.png" width="40" height="40" alt="Apache Spark"/>
-<img src="https://flink.apache.org/img/logo/png/200/flink_squirrel_200_color.png" width="40" height="40" alt="Apache Flink"/>
-<img src="https://raw.githubusercontent.com/apache/kafka/trunk/clients/src/main/resources/common/messageformat/logo.png" width="40" height="40" alt="Apache Kafka"/>
-<img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/main/etc/dbt-core.svg" width="40" height="40" alt="dbt"/>
-<img src="https://cdn.simpleicons.org/databricks" width="40" height="40" alt="Databricks"/>
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40" height="40" alt="Apache Airflow"/>
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="40" height="40" alt="Apache Spark"/>
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="40" height="40" alt="Apache Kafka"/>
+<img src="https://cdn.simpleicons.org/dbt/FF694A" width="40" height="40" alt="dbt"/>
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" height="40" alt="Databricks"/>
 </p>
 
 ### Databases
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB"/>
+<img src="https://cdn.simpleicons.org/redis/DC382D" width="40" height="40" alt="Redis"/>
 </p>
 
-### MLOps, Cloud & Infrastructure
+### MLOps, Observability & Infrastructure
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" width="40" height="40" alt="MLflow"/>
+<img src="https://cdn.simpleicons.org/evidently/FF5A5F" width="40" height="40" alt="Evidently AI"/>
+<img src="https://cdn.simpleicons.org/langfuse/000000" width="40" height="40" alt="Langfuse"/>
+<img src="https://cdn.simpleicons.org/prometheus/E6522C" width="40" height="40" alt="Prometheus"/>
+<img src="https://cdn.simpleicons.org/grafana/F46800" width="40" height="40" alt="Grafana"/>
+<img src="https://cdn.simpleicons.org/grafana/loki/F46800" width="40" height="40" alt="Loki"/>
+<img src="https://cdn.simpleicons.org/tempo/F46800" width="40" height="40" alt="Tempo"/>
 </p>
 
-`Pulumi` · `Tencent Cloud` · `MLflow` · `CI/CD` · `Model Serving` · `Monitoring`
+`Pulumi` · `MLflow` · `CI/CD` · `Model Serving` · `Monitoring`
 
 > Technologies reflect tools I actively use or work with across machine learning, data engineering, MLOps, cloud infrastructure, and AI systems. Individual repositories provide implementation details and project-specific context.
 
